@@ -6,4 +6,9 @@ public class Demo {
 		
 		System.out.println("biraj");
 	}
+
+	public static void subtract(inta, int b) {
+	
+		System.out.println(a-b);
+	}
 }
